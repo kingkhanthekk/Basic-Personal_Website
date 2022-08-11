@@ -1,0 +1,12 @@
+body {
+  background-color:#FAF3E3;
+}
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+img:hover {
+  background-color: green;
+}
